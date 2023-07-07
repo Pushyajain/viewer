@@ -593,7 +593,7 @@ export default {
 				this.close()
 				return
 			}
-
+                       
                         this.theme = handler.theme ?? 'dark'
 			
                         this.handlerId = handler.id
